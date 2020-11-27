@@ -1,0 +1,21 @@
+[
+  {
+    "type": "markdown",
+    "path": "./README.md",
+    "required": true,
+    "markdown": [
+      {
+        "text": "Quick Start",
+        "required": true
+      },
+      {
+        "text": "Running the project",
+        "required": true
+      },
+      {
+        "text": "About Project Denny",
+        "required": true
+      }
+    ]
+  }
+]

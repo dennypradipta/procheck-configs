@@ -13,18 +13,7 @@
         "required": true
       },
       {
-        "text": "Testing",
-        "required": false
-      }
-    ]
-  },
-  {
-    "type": "markdown",
-    "path": "./LICENSE.md",
-    "required": true,
-    "markdown": [
-      {
-        "text": "Apache-2.0",
+        "text": "About Project Muslim",
         "required": true
       }
     ]
